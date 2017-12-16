@@ -4,6 +4,7 @@ public class Ejercicio2 {
     public static void main(String[] args){
 
         String cadena = "Esto es una cadena con informacion";
+
         int cont  = 0;
         cadena = cadena.toLowerCase();
 
